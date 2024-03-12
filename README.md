@@ -1,0 +1,2 @@
+# DrinkFireHD
+DrinkfireHD Discord Bot
